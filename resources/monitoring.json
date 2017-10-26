@@ -1,0 +1,20 @@
+{
+  "checking_period": 600,
+  "appid": "415f4390f73af1075d97f7f51ce57d62",
+  "cities": [
+    {
+      "name": "Fairbanks",
+      "id": 5861897,
+      "temp_low": -0.0,
+      "temp_high": 10.0,
+      "wind_high": 0.0
+    },
+    {
+      "name": "Honolulu",
+      "id": 5856195,
+      "temp_low": 10.0,
+      "temp_high": 20.0,
+      "wind_high": 10.0
+    }
+  ]
+}

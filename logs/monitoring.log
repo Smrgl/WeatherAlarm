@@ -1,0 +1,1446 @@
+city: "Fairbanks"
+date_time: "2017-10-26 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 6.44
+temp_min: 3.2
+temp_max: 6.44
+pressure: 983.9
+sea_level: 1012.42
+grnd_level: 983.9
+humidity: 80
+temp_kf: 3.24
+wind_speed: 2.41
+wind_deg: 73.5016
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-27 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 6.25
+temp_min: 3.82
+temp_max: 6.25
+pressure: 982.43
+sea_level: 1010.74
+grnd_level: 982.43
+humidity: 80
+temp_kf: 2.43
+wind_speed: 2.51
+wind_deg: 90.5011
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-27 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 3.78
+temp_min: 2.16
+temp_max: 3.78
+pressure: 980.58
+sea_level: 1009.06
+grnd_level: 980.58
+humidity: 88
+temp_kf: 1.62
+wind_speed: 2.61
+wind_deg: 77.5053
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-27 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 3.27
+temp_min: 2.46
+temp_max: 3.27
+pressure: 978.96
+sea_level: 1007.34
+grnd_level: 978.96
+humidity: 84
+temp_kf: 0.81
+wind_speed: 3.61
+wind_deg: 86.0013
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-27 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 0.37
+temp_min: 0.37
+temp_max: 0.37
+pressure: 978.77
+sea_level: 1007.3
+grnd_level: 978.77
+humidity: 85
+temp_kf: 0
+wind_speed: 2.16
+wind_deg: 81.0011
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-27 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -2.11
+temp_min: -2.11
+temp_max: -2.11
+pressure: 979.61
+sea_level: 1008.14
+grnd_level: 979.61
+humidity: 81
+temp_kf: 0
+wind_speed: 1.96
+wind_deg: 194
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-27 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -3.39
+temp_min: -3.39
+temp_max: -3.39
+pressure: 980.59
+sea_level: 1009.24
+grnd_level: 980.59
+humidity: 89
+temp_kf: 0
+wind_speed: 0.44
+wind_deg: 131
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-27 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -3.24
+temp_min: -3.24
+temp_max: -3.24
+pressure: 981.06
+sea_level: 1009.79
+grnd_level: 981.06
+humidity: 78
+temp_kf: 0
+wind_speed: 1.17
+wind_deg: 117.004
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-27 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 0.56
+temp_min: 0.56
+temp_max: 0.56
+pressure: 983.14
+sea_level: 1011.81
+grnd_level: 983.14
+humidity: 86
+temp_kf: 0
+wind_speed: 0.76
+wind_deg: 144.002
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-28 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.87
+temp_min: 1.87
+temp_max: 1.87
+pressure: 986.48
+sea_level: 1015.05
+grnd_level: 986.48
+humidity: 92
+temp_kf: 0
+wind_speed: 0.84
+wind_deg: 204.001
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-28 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 0.49
+temp_min: 0.49
+temp_max: 0.49
+pressure: 991.7
+sea_level: 1020.23
+grnd_level: 991.7
+humidity: 98
+temp_kf: 0
+wind_speed: 3.45
+wind_deg: 238.503
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-28 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.89
+temp_min: 1.89
+temp_max: 1.89
+pressure: 996.32
+sea_level: 1024.97
+grnd_level: 996.32
+humidity: 95
+temp_kf: 0
+wind_speed: 8.68
+wind_deg: 250.504
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-28 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.48
+temp_min: 1.48
+temp_max: 1.48
+pressure: 1001.47
+sea_level: 1030.19
+grnd_level: 1001.47
+humidity: 87
+temp_kf: 0
+wind_speed: 8.53
+wind_deg: 253.001
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-28 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.1
+temp_min: 1.1
+temp_max: 1.1
+pressure: 1005.63
+sea_level: 1034.58
+grnd_level: 1005.63
+humidity: 83
+temp_kf: 0
+wind_speed: 6.77
+wind_deg: 254
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-28 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -2.18
+temp_min: -2.18
+temp_max: -2.18
+pressure: 1007.8
+sea_level: 1037.04
+grnd_level: 1007.8
+humidity: 87
+temp_kf: 0
+wind_speed: 3.16
+wind_deg: 243.005
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-28 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -6.53
+temp_min: -6.53
+temp_max: -6.53
+pressure: 1008.86
+sea_level: 1038.05
+grnd_level: 1008.86
+humidity: 78
+temp_kf: 0
+wind_speed: 2.07
+wind_deg: 106.001
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-28 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -1.74
+temp_min: -1.74
+temp_max: -1.74
+pressure: 1008.91
+sea_level: 1037.94
+grnd_level: 1008.91
+humidity: 84
+temp_kf: 0
+wind_speed: 3.37
+wind_deg: 78.002
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-29 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 0.99
+temp_min: 0.99
+temp_max: 0.99
+pressure: 1007.79
+sea_level: 1036.82
+grnd_level: 1007.79
+humidity: 79
+temp_kf: 0
+wind_speed: 5.21
+wind_deg: 117.501
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-29 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 0.34
+temp_min: 0.34
+temp_max: 0.34
+pressure: 1007.49
+sea_level: 1036.66
+grnd_level: 1007.49
+humidity: 75
+temp_kf: 0
+wind_speed: 3.57
+wind_deg: 129.501
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-29 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -2.19
+temp_min: -2.19
+temp_max: -2.19
+pressure: 1006.79
+sea_level: 1035.92
+grnd_level: 1006.79
+humidity: 80
+temp_kf: 0
+wind_speed: 3.01
+wind_deg: 109.002
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-29 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -4.22
+temp_min: -4.22
+temp_max: -4.22
+pressure: 1004.31
+sea_level: 1033.64
+grnd_level: 1004.31
+humidity: 83
+temp_kf: 0
+wind_speed: 2.13
+wind_deg: 82.5015
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-29 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -5.27
+temp_min: -5.27
+temp_max: -5.27
+pressure: 1001.08
+sea_level: 1030.3
+grnd_level: 1001.08
+humidity: 81
+temp_kf: 0
+wind_speed: 2.19
+wind_deg: 60.5005
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-29 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -2.94
+temp_min: -2.94
+temp_max: -2.94
+pressure: 997.32
+sea_level: 1026.34
+grnd_level: 997.32
+humidity: 75
+temp_kf: 0
+wind_speed: 3.02
+wind_deg: 105.502
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-29 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.82
+temp_min: 1.82
+temp_max: 1.82
+pressure: 993.62
+sea_level: 1022.46
+grnd_level: 993.62
+humidity: 78
+temp_kf: 0
+wind_speed: 4.16
+wind_deg: 124.001
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-29 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 4.34
+temp_min: 4.34
+temp_max: 4.34
+pressure: 994.22
+sea_level: 1022.68
+grnd_level: 994.22
+humidity: 71
+temp_kf: 0
+wind_speed: 2.83
+wind_deg: 167.5
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-30 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 7.54
+temp_min: 7.54
+temp_max: 7.54
+pressure: 995
+sea_level: 1023.65
+grnd_level: 995
+humidity: 69
+temp_kf: 0
+wind_speed: 6.01
+wind_deg: 220.003
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-30 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 3.15
+temp_min: 3.15
+temp_max: 3.15
+pressure: 998.82
+sea_level: 1027.39
+grnd_level: 998.82
+humidity: 90
+temp_kf: 0
+wind_speed: 3.91
+wind_deg: 270.502
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-30 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.23
+temp_min: 1.23
+temp_max: 1.23
+pressure: 1000.08
+sea_level: 1028.82
+grnd_level: 1000.08
+humidity: 93
+temp_kf: 0
+wind_speed: 2.11
+wind_deg: 216.5
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-30 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 0.57
+temp_min: 0.57
+temp_max: 0.57
+pressure: 999.96
+sea_level: 1028.76
+grnd_level: 999.96
+humidity: 90
+temp_kf: 0
+wind_speed: 1.61
+wind_deg: 134.003
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-30 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -0.82
+temp_min: -0.82
+temp_max: -0.82
+pressure: 997.8
+sea_level: 1026.53
+grnd_level: 997.8
+humidity: 89
+temp_kf: 0
+wind_speed: 1.66
+wind_deg: 52.001
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-30 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 0.63
+temp_min: 0.63
+temp_max: 0.63
+pressure: 993.45
+sea_level: 1022.41
+grnd_level: 993.45
+humidity: 92
+temp_kf: 0
+wind_speed: 3.22
+wind_deg: 41.5067
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-30 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.25
+temp_min: 1.25
+temp_max: 1.25
+pressure: 990.78
+sea_level: 1019.52
+grnd_level: 990.78
+humidity: 92
+temp_kf: 0
+wind_speed: 2.01
+wind_deg: 32.5023
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-30 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 2.73
+temp_min: 2.73
+temp_max: 2.73
+pressure: 988.91
+sea_level: 1017.53
+grnd_level: 988.91
+humidity: 98
+temp_kf: 0
+wind_speed: 2.03
+wind_deg: 69.0049
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-31 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 3.07
+temp_min: 3.07
+temp_max: 3.07
+pressure: 989.58
+sea_level: 1018.02
+grnd_level: 989.58
+humidity: 95
+temp_kf: 0
+wind_speed: 0.51
+wind_deg: 2.50137
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-31 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.91
+temp_min: 1.91
+temp_max: 1.91
+pressure: 991.56
+sea_level: 1020.12
+grnd_level: 991.56
+humidity: 95
+temp_kf: 0
+wind_speed: 1.56
+wind_deg: 237.501
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-31 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 1.56
+temp_min: 1.56
+temp_max: 1.56
+pressure: 993.13
+sea_level: 1021.76
+grnd_level: 993.13
+humidity: 93
+temp_kf: 0
+wind_speed: 2.72
+wind_deg: 226.006
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-31 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 0.77
+temp_min: 0.77
+temp_max: 0.77
+pressure: 995.96
+sea_level: 1024.94
+grnd_level: 995.96
+humidity: 98
+temp_kf: 0
+wind_speed: 5.21
+wind_deg: 257.504
+--------------------
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-31 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -0.41
+temp_min: -0.41
+temp_max: -0.41
+pressure: 999.73
+sea_level: 1028.88
+grnd_level: 999.73
+humidity: 94
+temp_kf: 0
+wind_speed: 5.2
+wind_deg: 271.003
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-31 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -0.9
+temp_min: -0.9
+temp_max: -0.9
+pressure: 1004.15
+sea_level: 1033.38
+grnd_level: 1004.15
+humidity: 90
+temp_kf: 0
+wind_speed: 4.92
+wind_deg: 312.502
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Fairbanks"
+date_time: "2017-10-31 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: -1.23
+temp_min: -1.23
+temp_max: -1.23
+pressure: 1009.57
+sea_level: 1039
+grnd_level: 1009.57
+humidity: 81
+temp_kf: 0
+wind_speed: 4.51
+wind_deg: 325.007
+--------------------
+ALERT: Low temperatures!
+ALERT: Strong wind!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-26 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 27.68
+temp_min: 26.15
+temp_max: 27.68
+pressure: 1020.29
+sea_level: 1027.5
+grnd_level: 1020.29
+humidity: 69
+temp_kf: 1.53
+wind_speed: 3.11
+wind_deg: 2.00162
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-27 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 27.07
+temp_min: 26.05
+temp_max: 27.07
+pressure: 1018.01
+sea_level: 1025.29
+grnd_level: 1018.01
+humidity: 64
+temp_kf: 1.02
+wind_speed: 3.51
+wind_deg: 5.0011
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-27 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 25.3
+temp_min: 24.79
+temp_max: 25.3
+pressure: 1018.03
+sea_level: 1025.27
+grnd_level: 1018.03
+humidity: 66
+temp_kf: 0.51
+wind_speed: 3.46
+wind_deg: 4.50531
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-27 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 21.19
+temp_min: 21.19
+temp_max: 21.19
+pressure: 1019.25
+sea_level: 1026.35
+grnd_level: 1019.25
+humidity: 82
+temp_kf: 0
+wind_speed: 2.23
+wind_deg: 4.50125
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-27 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 19.24
+temp_min: 19.24
+temp_max: 19.24
+pressure: 1019.3
+sea_level: 1026.46
+grnd_level: 1019.3
+humidity: 91
+temp_kf: 0
+wind_speed: 1.83
+wind_deg: 359.001
+--------------------
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-27 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 18.87
+temp_min: 18.87
+temp_max: 18.87
+pressure: 1018.44
+sea_level: 1025.69
+grnd_level: 1018.44
+humidity: 91
+temp_kf: 0
+wind_speed: 1.49
+wind_deg: 358
+--------------------
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-27 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 19.22
+temp_min: 19.22
+temp_max: 19.22
+pressure: 1017.72
+sea_level: 1024.96
+grnd_level: 1017.72
+humidity: 89
+temp_kf: 0
+wind_speed: 1.29
+wind_deg: 1.50015
+--------------------
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-27 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 22.19
+temp_min: 22.19
+temp_max: 22.19
+pressure: 1018.83
+sea_level: 1025.93
+grnd_level: 1018.83
+humidity: 85
+temp_kf: 0
+wind_speed: 1.22
+wind_deg: 5.00427
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-27 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 26.21
+temp_min: 26.21
+temp_max: 26.21
+pressure: 1018.41
+sea_level: 1025.62
+grnd_level: 1018.41
+humidity: 66
+temp_kf: 0
+wind_speed: 1.96
+wind_deg: 31.0021
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-28 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 27.37
+temp_min: 27.37
+temp_max: 27.37
+pressure: 1016.07
+sea_level: 1023.4
+grnd_level: 1016.07
+humidity: 62
+temp_kf: 0
+wind_speed: 2.47
+wind_deg: 27.0011
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-28 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 26.27
+temp_min: 26.27
+temp_max: 26.27
+pressure: 1016.35
+sea_level: 1023.6
+grnd_level: 1016.35
+humidity: 62
+temp_kf: 0
+wind_speed: 3
+wind_deg: 35.0026
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-28 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 21.94
+temp_min: 21.94
+temp_max: 21.94
+pressure: 1017.97
+sea_level: 1025.09
+grnd_level: 1017.97
+humidity: 81
+temp_kf: 0
+wind_speed: 2.36
+wind_deg: 48.0041
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-28 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 19.03
+temp_min: 19.03
+temp_max: 19.03
+pressure: 1018.09
+sea_level: 1025.25
+grnd_level: 1018.09
+humidity: 95
+temp_kf: 0
+wind_speed: 1.48
+wind_deg: 63.0009
+--------------------
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-28 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 17.65
+temp_min: 17.65
+temp_max: 17.65
+pressure: 1017.38
+sea_level: 1024.57
+grnd_level: 1017.38
+humidity: 95
+temp_kf: 0
+wind_speed: 1.22
+wind_deg: 66.5002
+--------------------
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-28 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 16.88
+temp_min: 16.88
+temp_max: 16.88
+pressure: 1017.04
+sea_level: 1024.27
+grnd_level: 1017.04
+humidity: 94
+temp_kf: 0
+wind_speed: 1.11
+wind_deg: 65.5046
+--------------------
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-28 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 21.22
+temp_min: 21.22
+temp_max: 21.22
+pressure: 1018.35
+sea_level: 1025.53
+grnd_level: 1018.35
+humidity: 90
+temp_kf: 0
+wind_speed: 1.07
+wind_deg: 85.0014
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-28 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 27.69
+temp_min: 27.69
+temp_max: 27.69
+pressure: 1018.4
+sea_level: 1025.66
+grnd_level: 1018.4
+humidity: 66
+temp_kf: 0
+wind_speed: 2.42
+wind_deg: 82.502
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-29 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 27.56
+temp_min: 27.56
+temp_max: 27.56
+pressure: 1016.71
+sea_level: 1024.09
+grnd_level: 1016.71
+humidity: 65
+temp_kf: 0
+wind_speed: 3.41
+wind_deg: 77.5012
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-29 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 25.69
+temp_min: 25.69
+temp_max: 25.69
+pressure: 1017.22
+sea_level: 1024.46
+grnd_level: 1017.22
+humidity: 69
+temp_kf: 0
+wind_speed: 3.12
+wind_deg: 84.5008
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-29 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 23.04
+temp_min: 23.04
+temp_max: 23.04
+pressure: 1018.95
+sea_level: 1026.11
+grnd_level: 1018.95
+humidity: 81
+temp_kf: 0
+wind_speed: 2.96
+wind_deg: 75.5015
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-29 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 21.74
+temp_min: 21.74
+temp_max: 21.74
+pressure: 1019.31
+sea_level: 1026.5
+grnd_level: 1019.31
+humidity: 90
+temp_kf: 0
+wind_speed: 2.41
+wind_deg: 76.0015
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-29 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 21.01
+temp_min: 21.01
+temp_max: 21.01
+pressure: 1018.91
+sea_level: 1026.09
+grnd_level: 1018.91
+humidity: 98
+temp_kf: 0
+wind_speed: 1.72
+wind_deg: 84.5005
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-29 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 21.09
+temp_min: 21.09
+temp_max: 21.09
+pressure: 1018.64
+sea_level: 1025.81
+grnd_level: 1018.64
+humidity: 100
+temp_kf: 0
+wind_speed: 1.24
+wind_deg: 61.002
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-29 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 22.37
+temp_min: 22.37
+temp_max: 22.37
+pressure: 1019.88
+sea_level: 1027
+grnd_level: 1019.88
+humidity: 100
+temp_kf: 0
+wind_speed: 1.56
+wind_deg: 56.0006
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-29 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 27.21
+temp_min: 27.21
+temp_max: 27.21
+pressure: 1019.67
+sea_level: 1026.9
+grnd_level: 1019.67
+humidity: 75
+temp_kf: 0
+wind_speed: 2.8
+wind_deg: 84.5
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-30 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 26.07
+temp_min: 26.07
+temp_max: 26.07
+pressure: 1018.02
+sea_level: 1025.23
+grnd_level: 1018.02
+humidity: 81
+temp_kf: 0
+wind_speed: 3.61
+wind_deg: 86.5031
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-30 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 23.2
+temp_min: 23.2
+temp_max: 23.2
+pressure: 1018.28
+sea_level: 1025.45
+grnd_level: 1018.28
+humidity: 99
+temp_kf: 0
+wind_speed: 2.36
+wind_deg: 102.502
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-30 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 22.93
+temp_min: 22.93
+temp_max: 22.93
+pressure: 1019.45
+sea_level: 1026.72
+grnd_level: 1019.45
+humidity: 99
+temp_kf: 0
+wind_speed: 1.86
+wind_deg: 113
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-30 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 20.97
+temp_min: 20.97
+temp_max: 20.97
+pressure: 1019.98
+sea_level: 1027.12
+grnd_level: 1019.98
+humidity: 97
+temp_kf: 0
+wind_speed: 1.51
+wind_deg: 123.503
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-30 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 19.66
+temp_min: 19.66
+temp_max: 19.66
+pressure: 1019.04
+sea_level: 1026.25
+grnd_level: 1019.04
+humidity: 95
+temp_kf: 0
+wind_speed: 1.26
+wind_deg: 178.501
+--------------------
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-30 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 19.03
+temp_min: 19.03
+temp_max: 19.03
+pressure: 1018.42
+sea_level: 1025.61
+grnd_level: 1018.42
+humidity: 97
+temp_kf: 0
+wind_speed: 1.17
+wind_deg: 181.507
+--------------------
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-30 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 22.75
+temp_min: 22.75
+temp_max: 22.75
+pressure: 1019.47
+sea_level: 1026.66
+grnd_level: 1019.47
+humidity: 96
+temp_kf: 0
+wind_speed: 1.06
+wind_deg: 159.502
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-30 21:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 27.6
+temp_min: 27.6
+temp_max: 27.6
+pressure: 1019.31
+sea_level: 1026.56
+grnd_level: 1019.31
+humidity: 79
+temp_kf: 0
+wind_speed: 1.68
+wind_deg: 162.505
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-31 00:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 25.75
+temp_min: 25.75
+temp_max: 25.75
+pressure: 1017.71
+sea_level: 1024.87
+grnd_level: 1017.71
+humidity: 90
+temp_kf: 0
+wind_speed: 1.96
+wind_deg: 168.001
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-31 03:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 26.41
+temp_min: 26.41
+temp_max: 26.41
+pressure: 1017.51
+sea_level: 1024.66
+grnd_level: 1017.51
+humidity: 75
+temp_kf: 0
+wind_speed: 1.36
+wind_deg: 230.501
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-31 06:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 24.75
+temp_min: 24.75
+temp_max: 24.75
+pressure: 1018.59
+sea_level: 1025.75
+grnd_level: 1018.59
+humidity: 81
+temp_kf: 0
+wind_speed: 1.67
+wind_deg: 178.006
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-31 09:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 23.72
+temp_min: 23.72
+temp_max: 23.72
+pressure: 1019.15
+sea_level: 1026.24
+grnd_level: 1019.15
+humidity: 85
+temp_kf: 0
+wind_speed: 2.21
+wind_deg: 184.004
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-31 12:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 23.62
+temp_min: 23.62
+temp_max: 23.62
+pressure: 1018.3
+sea_level: 1025.42
+grnd_level: 1018.3
+humidity: 85
+temp_kf: 0
+wind_speed: 2.15
+wind_deg: 187.503
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-31 15:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 23.83
+temp_min: 23.83
+temp_max: 23.83
+pressure: 1017.69
+sea_level: 1024.91
+grnd_level: 1017.69
+humidity: 82
+temp_kf: 0
+wind_speed: 2.42
+wind_deg: 193.502
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
+city: "Honolulu"
+date_time: "2017-10-31 18:00:00"
+data updated: Thu Oct 26 21:47:10 EEST 2017
+temp: 24.87
+temp_min: 24.87
+temp_max: 24.87
+pressure: 1019.3
+sea_level: 1026.43
+grnd_level: 1019.3
+humidity: 79
+temp_kf: 0
+wind_speed: 2.51
+wind_deg: 210.507
+--------------------
+ALERT: High temperatures!
+
+--------------------
+
